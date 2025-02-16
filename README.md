@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anvesh Sharma</h1>
+<h1 align="center">Hi 👋, I'm Anvesha Sharma</h1>
 <h3 align="center">Aspiring Software Developer | Tech Explorer | Turning Ideas into Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-anvesha&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-anvesha" /> </p>
