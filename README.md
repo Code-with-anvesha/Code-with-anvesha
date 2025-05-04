@@ -1,28 +1,81 @@
-# 💫 About Me👩‍💻
-I’m currently working on networking projects and solving problems on HackerRank,geeks for geeks and leetcode. I'm interested in collaborating on open-source and DSA-related projects. Currently, I’m learning competitive programming and cloud computing while exploring advanced algorithms and system design concepts. I have a strong grasp of C++, Java, and networking. I enjoy working on real-world problems and simplifying complex topics📚.
+# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Anvesha Sharma
 
- ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anveshasharma0941) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anvesha7973) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anvesha-s-412908293) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@anveshasharma2626) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Anvesha-Sharma-the-builder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmaanvesha905@gmail.com) 
+### Aspiring Data Scientist | Passionate about Python and Linux
 
- ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-  ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Code-with-anvesha&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Code-with-anvesha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-with-anvesha&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Code-with-anvesha&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Code-with-anvesha&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+I'm a passionate learner and aspiring developer who loves exploring programming, solving real-world problems, and building creative tech projects. I enjoy working in the terminal, diving deep into Linux, and simplifying complex topics for others.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Code-with-anvesha&icon=6&color=0)](https://visitcount.itsvg.in)
 
+### About Me
 
- 💡 "The secret of getting ahead is getting started." – Mark Twain 🚀
+- **OOP (Object-Oriented Programming)** – Strong understanding and practical implementation.
+- **Data Structures & Algorithms (DSA)** – Enjoy solving logical problems efficiently.
+- **Operating Systems** – Learning memory, process, and resource management.
+- **Networking** – Hands-on with socket programming and client-server concepts.
+- **Web Technologies** – Basic front-end development using HTML, CSS, and JavaScript.
+
+---
+
+### Projects
+
+1. **Simple to Advanced Calculator**  
+   A feature-rich calculator built with Python & JavaScript including trigonometric and logarithmic functions.
+
+2. **Round-Robin Scheduling Simulator**  
+   Visualized CPU scheduling using the Round-Robin algorithm.
+
+3. **Windows Success Analysis**  
+   A documentation project analyzing Windows OS’s history and its impact.
+
+4. **Networking Projects**  
+   Built client-server communication programs using Python sockets.
+
+---
+
+### Skills
+
+**Languages:**  
+C, C++, Python, JavaScript, Java, SQL
+
+**Technologies & Tools:**  
+Git, GitHub, VS Code, Vim, HTML, CSS, OOP, DSA, Networking, OS Concepts
+
+**Soft Skills:**  
+Problem Solving, Analytical Thinking, Curiosity, Teamwork
+
+---
+
+### Certifications
+
+- Java (Basic) – HackerRank  
+- JavaScript (Basic & Intermediate) – HackerRank  
+- HTML & CSS – Let's Upgrade  
+- Cybersecurity Analyst Job Simulation – Forage  
+- Data Science & ML Internship Program – Edureka  
+- Basic Problem Solving – HackerRank
+
+---
+
+### What I’m Currently Working On
+
+- Creating a **Linux Command Cheat Sheet** for beginners:  
+  [GitHub Repo](https://github.com/Code-with-anvesha/Linux_Command_CheatSheet)
+- Learning **Data Science, Python for Data Analysis**, and **Machine Learning**.
+- Solving problems on **HackerRank, GeeksforGeeks, and LeetCode**.
+- Exploring **Cloud Computing** and **System Design** basics.
+- Open to collaborating on **Linux docs, DSA projects, or CLI-based tools**.
+
+---
+
+### Connect with Me
+
+**Email:** sharmaanvesha905@gmail.com  
+**LinkedIn:** [anvesha-s-412908293](https://www.linkedin.com/in/anvesha-s-412908293)  
+**GitHub:** [Code-with-anvesha](https://github.com/Code-with-anvesha)  
+**Instagram:** [@anvesha7973](https://www.instagram.com/anvesha7973)  
+**Discord:** anveshasharma0839_10161  
+**CodePen:** [Anvesha Sharma the builder](https://www.codepen.io/Anvesha-Sharma-the-builder)
+
+---
+
+### Let’s Build and Grow Together!
