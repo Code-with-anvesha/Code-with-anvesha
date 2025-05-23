@@ -1,4 +1,5 @@
 # 💫 About Me👩‍💻
+___
 I’m currently working on networking projects and solving problems on HackerRank,geeks for geeks and leetcode. I'm interested in collaborating on open-source and DSA-related projects. Currently, I’m learning competitive programming and cloud computing while exploring advanced algorithms and system design concepts. I have a strong grasp of C language, Python and networking. I enjoy working on real-world problems and simplifying complex topics📚.
 
  ## 🌐 Socials:
