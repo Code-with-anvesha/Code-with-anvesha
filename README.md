@@ -3,6 +3,7 @@ ___
 I’m currently working on networking projects and solving problems on HackerRank,geeks for geeks and leetcode. I'm interested in collaborating on open-source and DSA-related projects. Currently, I’m learning competitive programming and cloud computing while exploring advanced algorithms and system design concepts. I have a strong grasp of C language, Python and networking. I enjoy working on real-world problems and simplifying complex topics📚.
 
  ## 🌐 Socials:
+___
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anveshasharma0941) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anvesha7973) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anvesha-s-412908293) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@anveshasharma2626) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Anvesha-Sharma-the-builder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmaanvesha905@gmail.com) 
 
  ## 💻 Tech Stack:
