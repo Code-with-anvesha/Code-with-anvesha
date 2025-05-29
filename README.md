@@ -61,7 +61,7 @@ Active on coding platforms such as CodeChef, GeeksforGeeks, and HackerEarth for 
 ___
 ### 🏆 Achievements
 ___
-✅ Completed Python Project Bootcamp, Java Bootcamp, and HTML & CSS Bootcamp with LetsUpgrade
+✅ Completed Html and CSS Bootcamp, LetsUpgrade
 
 🧠 Solved 100+ DSA problems on CodeChef, GeeksforGeeks, and HackerEarth
 
