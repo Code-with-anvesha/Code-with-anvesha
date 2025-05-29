@@ -26,36 +26,36 @@ Hello I'm anvesha🤝<br>I’m currently learning Data Science and Machine Learn
 
 ### 🏅 Certifications
 ___
-•🎓 Java (Basic) by HackerRank & CodeChef
+*🎓 Java (Basic) by HackerRank & CodeChef
 
 *🎓 JavaScript (Basic) by HackerRank
 
 *🎓 JavaScript (Intermediate) by HackerRank
 
-•🎓 Python by Let’s Upgrade & CodeChef
+*🎓 Python by Let’s Upgrade & CodeChef
 
-•🎓 Problem Solving by HackerRank & CodeChef
+*🎓 Problem Solving by HackerRank & CodeChef
 
-•🎓 HTML and CSS by Let’s Upgrade
+*🎓 HTML and CSS by Let’s Upgrade
 
-•🎓 Data Science and Machine Learning Internship Program by Edureka
+*🎓 Data Science and Machine Learning Internship Program by Edureka
 
-•🛡️ Cybersecurity Analyst Virtual Experience by Forage (Completed for knowledge enhancement; core focus remains on Data Science & ML)
+*🛡️ Cybersecurity Analyst Virtual Experience by Forage (Completed for knowledge enhancement; core focus remains on Data Science & ML)
 ___
 
 ### 🧠 Skills
 ___
 
-•Programming Languages:
+* Programming Languages:
 Proficient in C, C++, Java, JavaScript, and Python (favorite for scripting & automation) — strong grasp of object-oriented and procedural programming.
 
-•Web Development: 🌐
+* Web Development: 🌐
 Hands-on experience with HTML, CSS, and JavaScript. Skilled in Responsive Web Design using CSS Grid and Flexbox, along with building interactive and user-friendly interfaces.
 
-•Data Structures & Algorithms: 📚
+* Data Structures & Algorithms: 📚
 Solid understanding of DSA concepts with a focus on problem-solving, time-space optimization, and participating in coding challenges.
 
-•Tools & Platforms: 🔧
+* Tools & Platforms: 🔧
 Familiar with industry-standard tools like VS Code, Git, GitHub, and Gitpod.
 Active on coding platforms such as CodeChef, GeeksforGeeks, and HackerEarth for continuous learning and improvement.
 ___
