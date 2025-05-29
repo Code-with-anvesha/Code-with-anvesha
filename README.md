@@ -28,9 +28,9 @@ Hello I'm anvesha🤝<br>I’m currently learning Data Science and Machine Learn
 ___
 •🎓 Java (Basic) by HackerRank & CodeChef
 
-•🎓 JavaScript (Basic) by HackerRank
+*🎓 JavaScript (Basic) by HackerRank
 
-•🎓 JavaScript (Intermediate) by HackerRank
+*🎓 JavaScript (Intermediate) by HackerRank
 
 •🎓 Python by Let’s Upgrade & CodeChef
 
