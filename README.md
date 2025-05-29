@@ -37,8 +37,7 @@
 🎓 Data Science and Machine Learning Internship Program by Edureka
 
 🛡️ Cybersecurity Analyst Virtual Experience by Forage (Completed for knowledge enhancement; core focus remains on Data Science & ML)
-
-```
+___
 
 ### 🧠 Skills
 ___
@@ -55,7 +54,7 @@ Solid understanding of DSA concepts with a focus on problem-solving, time-space 
 Tools & Platforms: 🔧
 Familiar with industry-standard tools like VS Code, Git, GitHub, and Gitpod.
 Active on coding platforms such as CodeChef, GeeksforGeeks, and HackerEarth for continuous learning and improvement.
-
+___
 ### 🏆 Achievements
 ___
 ✅ Completed Python Project Bootcamp, Java Bootcamp, and HTML & CSS Bootcamp with LetsUpgrade
