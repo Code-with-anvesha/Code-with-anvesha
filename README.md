@@ -26,7 +26,8 @@ I’m currently learning Data Science and Machine Learning while exploring advan
 
 ---
 
-🏅 Certifications
+🏅.### Certifications
+___
 
 🎓 Java (Basic) – HackerRank & CodeChef
 
@@ -47,8 +48,8 @@ I’m currently learning Data Science and Machine Learning while exploring advan
 
 ---
 
-🧠 Skills
-
+🧠.### Skills
+___
 👨‍💻 Programming Languages
 
 C, C++, Java, JavaScript, Python (favorite for scripting & automation)
@@ -82,7 +83,8 @@ Active on CodeChef, GeeksforGeeks, HackerEarth
 
 ---
 
-🏆 Achievements
+🏆. ### Achievements
+___
 
 ✅ Completed Python Project Bootcamp, Java Bootcamp, and HTML & CSS Bootcamp – Let’s Upgrade
 
