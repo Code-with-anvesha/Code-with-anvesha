@@ -55,7 +55,6 @@ Solid understanding of DSA concepts with a focus on problem-solving, time-space 
 Tools & Platforms: 🔧
 Familiar with industry-standard tools like VS Code, Git, GitHub, and Gitpod.
 Active on coding platforms such as CodeChef, GeeksforGeeks, and HackerEarth for continuous learning and improvement.
-```
 
 ### 🏆 Achievements
 ___
