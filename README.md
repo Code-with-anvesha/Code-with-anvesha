@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 🧑‍💻 About Me:
 Hello I'm anvesha🤝<br>I’m currently learning Data Science and Machine Learning while exploring advanced algorithms and system design concepts. I’m also solving problems on platforms like HackerRank, GfG, and codeChef. I'm interested in collaborating on open-source and DSA-related projects. With a strong grasp of C, Python, and networking, I enjoy working on real-world problems and simplifying complex topics 📚. Currently diving into competitive programming as part of my continuous learning journey.<br><br>
 
 
