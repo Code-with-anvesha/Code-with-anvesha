@@ -73,4 +73,4 @@ ___
 
 🎭 Created a Mood Selector Web App to enhance user interaction using JavaScript logic and styling
 
-📢 Actively sharing coding milestones and engaging with developers on LinkedIn
+📢 Actively sharing coding milestones and engaging with developers on LinkedIn.
