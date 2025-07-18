@@ -36,7 +36,7 @@ ___
 
 * 🎓 Problem Solving by HackerRank & CodeChef
 
-* 🎓 HTML and CSS by Let’s Upgrade
+* 🎓 HTML and CSS (Course by Let's Upgrade & Apna College)
 
 * 🎓 Data Science and Machine Learning Internship Program by Edureka
 
